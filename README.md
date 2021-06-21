@@ -1,1 +1,1 @@
-Maven resprosity for simple-bean.
+The maven repository of simple-bean
